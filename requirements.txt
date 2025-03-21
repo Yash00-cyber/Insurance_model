@@ -8,5 +8,4 @@ joblib
 waitress
 numpy
 sklearn
-scikit-learn
 
