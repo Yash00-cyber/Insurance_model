@@ -1,0 +1,6 @@
+flask
+flask-cors
+nest_asyncio
+gunicorn
+tensorflow  # If using an ML model
+pillow
