@@ -5,3 +5,6 @@ gunicorn
 tensorflow  # If using an ML model
 pillow
 joblib
+waitress
+numpy
+
